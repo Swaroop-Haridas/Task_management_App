@@ -44,22 +44,6 @@ Task_management_App/
 └── README.md
 ```
 
-## Screenshots
-
-### Login Page
-
-![Login](images/login.png)
-
-### Dashboard
-
-![Dashboard](images/dashboard.png)
-
-### Task Management
-
-![Tasks](images/tasks.png)
-
-> Replace the image paths with your actual screenshots.
-
 ## Installation
 
 ### Clone Repository
@@ -154,23 +138,3 @@ DELETE /tasks/:id
 │   MongoDB     │
 └───────────────┘
 ```
-
-## Future Improvements
-
-- Task reminders and notifications
-- Team collaboration features
-- Task categorization and filtering
-- File attachments
-- Activity tracking
-- Analytics dashboard
-
-## Author
-
-**Swaroop Haridas**
-
-- GitHub: https://github.com/Swaroop-Haridas
-- LinkedIn: https://www.linkedin.com/in/swaroop-haridas/
-
-## License
-
-This project is licensed under the MIT License.
