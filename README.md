@@ -49,7 +49,7 @@ Task_management_App/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Task_management_App.git
+git clone https://github.com/Swaroop-Haridas/Task_management_App.git
 cd Task_management_App
 ```
 
